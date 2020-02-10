@@ -93,7 +93,7 @@ section {
 	border-color: transparent
 }
 .navbar-default .navbar-brand {
-	color: #fff;
+	color: #17BA81; /* Teal color for label */
 	font-family: "Montserrat",sans-serif;
     padding: 0px;
 }
@@ -168,7 +168,7 @@ section {
 --------------------*/
 
 header {
-    background-image: url(../images/demo/bg-main.jpg);
+    background-image: url(../images/tiger-banner.jpeg);
     background-repeat: none;
     background-attachment: scroll;
     background-position: center center;
@@ -178,6 +178,7 @@ header {
     -o-background-size: cover;
     text-align: center;
     color: #fff;
+    padding-bottom: 150px;
 }
 
 header .intro-text {
