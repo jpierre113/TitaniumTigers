@@ -90,12 +90,15 @@ section {
 
 .navbar-default {
 	background-color: #222;
-	border-color: transparent
+	border-color: transparent;
+
+
 }
 .navbar-default .navbar-brand {
 	color: #17BA81; /* Teal color for label */
 	font-family: "Montserrat",sans-serif;
-    padding: 0px;
+  padding: 0px;
+
 }
 .navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active {
 	color: #fec503
@@ -116,9 +119,9 @@ section {
 .navbar-default .nav li a {
 	font-family: "Roboto",sans-serif;
 	text-transform: uppercase;
-	font-weight: 400;
+	font-weight: 900;
 	letter-spacing: 1px;
-	color:#fff
+	color:#FE9625;
 }
 .navbar-default .nav li a:hover,.navbar-default .nav li a:focus {
 	color: #fed136;
@@ -179,6 +182,8 @@ header {
     text-align: center;
     color: #fff;
     padding-bottom: 150px;
+    padding-top:100px;
+
 }
 
 header .intro-text {
