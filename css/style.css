@@ -98,6 +98,9 @@ section {
 	color: #17BA81; /* Teal color for label */
 	font-family: "Montserrat",sans-serif;
   padding: 0px;
+  font-size: 25px;
+  padding-left: 10px;
+  padding-top: 10px;
 
 }
 .navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active {
@@ -147,6 +150,7 @@ section {
 		-moz-transition:padding .3s;
 		transition:padding .3s;
 		border:0
+
 	}
 	.navbar-default .navbar-brand {
 		font-size: 2em;
